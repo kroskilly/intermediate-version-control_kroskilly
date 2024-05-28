@@ -12,6 +12,8 @@ adapted: false
 
 For this course we will go through the commands used in our tutorial, starting with the configuration commands, `git config`.
 
+## Hello!
+
 ### Getting help in Git
 
 We are going to be looking at some of the options when using git's subcommand `config`.
